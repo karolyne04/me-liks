@@ -11,6 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        
+        primary: "#FF1E56",
+        backHabilities: '#ff1e56b3',
+        secondary: '#F72C5B',
+        tertiary: '#FF8383',
+        quaternary: '#C30E59'
       },
     },
   },

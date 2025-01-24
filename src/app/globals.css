@@ -5,6 +5,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: "#FF1E56";
+  --backHabilities: '#ff1e56b3';
+  --secondary: '#F72C5B';
+  --tertiary: '#FF8383';
+  --quaternary: '#C30E59';
 }
 
 @media (prefers-color-scheme: dark) {
